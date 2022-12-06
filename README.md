@@ -1,16 +1,12 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://github.com/BrayanMuniz9%22%3E
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=BrayanMuniz9&show_icons=true&theme=transparent&include_all_commits=true&count_private=true%22/%3E
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanMuniz9&layout=compact&langs_count=7&theme=transparent%22/%3E
+</div>
 
-<!--
-**BrayanMuniz9/BrayanMuniz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>👾 Brayan Muniz 👾</h1>
+<hr>
+<h2>About Me</h2>
+<p>Hi, I'm Brayan, I like to code mainly in python, css3 and html5, I also have a basic knowledge of javascript, I'm mainly interested in A.I and back-end development</p>
+<h2>here some of my projects👇👇👇</h2>
